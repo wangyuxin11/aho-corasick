@@ -1,4 +1,4 @@
-# aho-corasick
+# aho-corasick  &&  DFA
 多模字符串匹配算法 Aho–Corasick [https://www.cnblogs.com/hwyang/p/6836438.html]
 
 敏感词过滤的算法原理之 Aho-Corasick 算法 [http://www.hankcs.com/program/algorithm/implementation-and-analysis-of-aho-corasick-algorithm-in-java.html]
