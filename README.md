@@ -1,7 +1,7 @@
 # aho-corasick
-多模字符串匹配算法 Aho–Corasick
+多模字符串匹配算法 Aho–Corasick [https://www.cnblogs.com/hwyang/p/6836438.html]
 
-https://www.cnblogs.com/hwyang/p/6836438.html
+敏感词过滤的算法原理之 Aho-Corasick 算法 [http://www.hankcs.com/program/algorithm/implementation-and-analysis-of-aho-corasick-algorithm-in-java.html]
 
 在做实际工作中，最简单也最常用的一种自然语言处理方法就是关键词匹配，例如我们要对n条文本进行过滤，那本身是一个过滤词表的，通常进行过滤的代码如下:
 
