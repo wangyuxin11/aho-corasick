@@ -3,6 +3,8 @@
 
 敏感词过滤的算法原理之 Aho-Corasick 算法 [http://www.hankcs.com/program/algorithm/implementation-and-analysis-of-aho-corasick-algorithm-in-java.html]
 
+敏感词过滤的算法原理之DFA算法【http://blog.csdn.net/chenssy/article/details/26961957】
+
 在做实际工作中，最简单也最常用的一种自然语言处理方法就是关键词匹配，例如我们要对n条文本进行过滤，那本身是一个过滤词表的，通常进行过滤的代码如下:
 
 for (String document : documents) {
